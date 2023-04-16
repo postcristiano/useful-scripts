@@ -80,7 +80,7 @@ Exec=/opt/$sysappname/*
 Icon=/opt/$sysappname/ico/*
 Terminal=$apptype
 Type=Application
-Categories=Utility;" > $sysappname.desktop
+Categories=Utility;" > /usr/share/applications/$sysappname.desktop
 }
 
 
