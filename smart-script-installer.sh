@@ -3,7 +3,7 @@
 # https://github.com/postcristiano/useful-scripts
 #
 # Copyright (c) 2021 postCristiano. Released under the BSD License 2.0
-# roadmap: add unistall feature
+# roadmap: add uninstall feature
 
 if [ "$EUID" -ne 0 ] 2> /dev/null > /dev/null
     then echo "It is need run as a root"
