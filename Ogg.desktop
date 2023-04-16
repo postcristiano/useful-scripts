@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Obsidian       
+Keywords=obsidian;markdown;notes;
+Exec=/home/cristiano/AppImages/Obsidian.AppImage
+Icon=/home/cristiano/AppImages/ico/obsidian.png
+Terminal=false
+Type=Application
+Categories=Utility;

@@ -1,4 +1,9 @@
 #!/bin/bash
+#
+# https://github.com/postcristiano/useful-scripts
+#
+# Copyright (c) 2023 postCristiano. Released under the BSD License 2.0
+
 
 while [ 1 ]; do
     xdotool mousemove $1 $2 click 1 &
