@@ -8,10 +8,10 @@ from paramiko import SSHClient, AutoAddPolicy, AuthenticationException, ssh_exce
 
 """
 passwords.csv
-Username, Password
-root, password1234
-root, 011584wb
-cristiano, 148068885
+Username,Password
+root,password1234
+root,011584wb
+cristiano,kkkKKKrsrsrs
 """
 
 # This function is responsible for the ssh client connecting.
