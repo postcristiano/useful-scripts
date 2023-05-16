@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+#!/bin/bash
 #
 # https://github.com/postcristiano/useful-scripts
 #
